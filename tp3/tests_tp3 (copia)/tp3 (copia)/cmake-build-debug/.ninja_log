@@ -1,0 +1,21 @@
+# ninja log v5
+3	1182	1688771380678544626	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.o	cb3307c817146e41
+1	646	1688246380575338585	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	f20a4dd3a274f9d6
+2	2646	0	CMakeFiles/correrValgrind	48c3de62aa73ef88
+3	1908	1688771381402545913	CMakeFiles/correrTests.dir/tests/tests_lollapatuza.cpp.o	1669456c17816b31
+2732	2769	1688246382699416356	libgtest.a	79f6caed1971b44a
+3	967	1688771380462544301	CMakeFiles/correrTests.dir/src/puesto.cpp.o	69f79282b82c3787
+646	659	1688246380591339172	libgtest_main.a	5c951341b00157e0
+1908	2176	1688771381674546458	correrTests	759a9be514880fac
+2	2646	0	/home/matias_sarm/Escritorio/UBA/Algo II/tp3/tests_tp3 (copia)/tp3 (copia)/cmake-build-debug/CMakeFiles/correrValgrind	48c3de62aa73ef88
+0	2732	1688246382655414747	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	76ded0291fa07c46
+2	907	1688771380406544217	CMakeFiles/correrTests.dir/src/fachada_lollapatuza.cpp.o	1426f19ef284b7f8
+1	788	1693680164704667661	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	5a22888783c33055
+788	801	1693680164720668123	libgtest_main.a	e11f28af621e0745
+2	1030	1693680164944674588	CMakeFiles/correrTests.dir/src/fachada_lollapatuza.cpp.o	e3656413a1463552
+2	1150	1693680165064678056	CMakeFiles/correrTests.dir/src/puesto.cpp.o	70189573e840faa3
+2	1299	1693680165212682339	CMakeFiles/correrTests.dir/src/lollapatuza.cpp.o	f8b793fb94844dc
+3	2049	1693680165964704102	CMakeFiles/correrTests.dir/tests/tests_lollapatuza.cpp.o	6a642d5993648fd8
+1	2722	1693680166632723482	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	71fea5dd0c87ed33
+2722	2761	1693680166676724759	libgtest.a	f5202f8bd30a20dc
+2761	3011	1693680166928732071	correrTests	759a9be514880fac

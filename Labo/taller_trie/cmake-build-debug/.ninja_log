@@ -1,0 +1,9 @@
+# ninja log v5
+1	649	1686369128641575648	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	aa57b9bb27ebfbb8
+1018	1925	0	/home/matias_sarm/Escritorio/UBA/Algo II/Labo/taller_trie/cmake-build-debug/CMakeFiles/correrValgrind	ea21e831860d7281
+1018	1925	0	CMakeFiles/correrValgrind	ea21e831860d7281
+2	845	1686517832680119942	CMakeFiles/correrTests.dir/tests/string_map_tests.cpp.o	19c2f8c3296b98d1
+1	39	1686369137401673826	libgtest.a	c9ccbd70d83eee60
+650	664	1686369128657575827	libgtest_main.a	a4bc3edcee0a9852
+845	1018	1686517832852119832	correrTests	bdccca76db40f76d
+0	2454	1686369130441595821	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	506202e217c4dc5
